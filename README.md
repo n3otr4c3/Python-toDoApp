@@ -7,10 +7,10 @@ Il s'agit de mon tout 1er programme créé dans le cadre d'une formation à Pyth
 
 
 ## Fonctionnement et explications
-Cette petite application gère une liste de tâche(s)
+Cette petite application gère une liste de tâche(s).
 
 Le Placeholder disparait une fois que du texte est inséré.
-Pour ajouter une tache, on appui sur Entrée
+Pour ajouter une tâche, on appui sur Entrée.
 
 Il est possible de double cliquer sur une tâche pour la faire disparaitre.
 Il est également possible de tout supprimer en une fois via le bouton réservé à cet effet.
