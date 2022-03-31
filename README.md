@@ -1,7 +1,7 @@
 # ToDo++
 
 ## Courte introduction
-Il s'agit de mon tout 1er programme créé dans le cadre d'une formation à Python afin de comprendre comment fonctionne les Imports/Widgets/Layout/Signaux.
+Il s'agit de mon tout 1er programme créé dans le cadre du premier module de la formation Python destinée à comprendre comment fonctionne les Imports/Widgets/Layout/Signaux.
 
 ![alt text](https://zupimages.net/up/22/13/t3ib.png)
 
